@@ -38,7 +38,7 @@
                     <branch>refs/heads/master</branch>                       <!-- remote branch name -->
                     <includes><include>**/*</include></includes>
                     <repositoryName>iText-rtf</repositoryName>      <!-- github repo name -->
-                    <repositoryOwner>atem085</repositoryOwner>    <!-- github username  -->
+                    <repositoryOwner>sinnedsystems</repositoryOwner>    <!-- github username  -->
                 </configuration>
                 <executions>
                     <!-- run site-maven-plugin 'site' target as part of the build normal 'deploy' phase -->
